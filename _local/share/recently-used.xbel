@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/alix/Downloads/i3-wm-4.19.2-1-x86_64.pkg.tar.zst" added="2021-08-11T21:53:05.902253Z" modified="2021-08-11T21:53:05.902261Z" visited="2021-08-11T21:53:05.902254Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zstd-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-11T21:53:05.902256Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alix/Downloads/wallpaper.jpg" added="2021-08-12T04:14:54.529484Z" modified="2021-08-12T04:14:54.844696Z" visited="2021-08-12T04:14:54.529485Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-12T04:14:54.844692Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alix/Pictures/Wal/bg1.jpg" added="2021-08-12T04:24:09.808197Z" modified="2021-08-12T04:24:10.201716Z" visited="2021-08-12T04:24:09.808199Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-12T04:24:10.201712Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alix/Pictures/Wal/bg2.jpg" added="2021-08-12T04:56:30.399615Z" modified="2021-08-12T04:56:30.744405Z" visited="2021-08-12T04:56:30.399616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-12T04:56:30.744401Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alix/Downloads/Yoru%20ni%20Kakeru%20(Lyric%20Video).mp3" added="2021-08-12T05:55:22.132607Z" modified="2021-08-12T05:55:22.132622Z" visited="2021-08-12T05:55:22.132608Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-12T05:55:22.132619Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alix/Downloads/python-wheel-0.37.0-1-any.pkg.tar.zst" added="2021-08-12T21:48:15.196619Z" modified="2021-08-12T21:48:15.196624Z" visited="2021-08-12T21:48:15.196619Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zstd-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-12T21:48:15.196621Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alix/.config/i3/i3status.conf" added="2021-08-13T01:08:23.671290Z" modified="2021-08-13T01:11:19.503545Z" visited="2021-08-13T01:08:23.671291Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-08-13T01:11:19.503544Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alix/.config/i3/config" added="2021-08-13T01:08:39.201235Z" modified="2021-08-13T01:20:44.877760Z" visited="2021-08-13T01:08:39.201236Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-08-13T01:20:44.877757Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/alix/Pictures/Wal/bg3.jpg" added="2021-08-13T01:19:39.463637Z" modified="2021-08-13T01:19:39.808643Z" visited="2021-08-13T01:19:39.463638Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-08-13T01:19:39.808640Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
