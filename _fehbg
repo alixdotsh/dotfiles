@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/alix/Pictures/Wal/bg3.jpg' 
